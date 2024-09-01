@@ -13,7 +13,7 @@ import pandas as pd
 import numpy as np
 
 # Replace with your FinancialModelingPrep API key
-API_KEY = '?apikey=r8K3hlHzDqJ78VMdJ94l1FUQEw50QV9I'
+API_KEY = 'r8K3hlHzDqJ78VMdJ94l1FUQEw50QV9I'
 BASE_URL = 'https://financialmodelingprep.com/api/v3/'
 
 def fetch_data_with_error_handling(url):
